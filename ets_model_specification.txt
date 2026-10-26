@@ -1,0 +1,18 @@
+ETS(A,N,A) 
+
+Call:
+forecast::ets(y = train_ts)
+
+  Smoothing parameters:
+    alpha = 0.2156 
+    gamma = 1e-04 
+
+  Initial states:
+    l = 42758.6709 
+    s = 15524.2 2591.602 -11614.48 -24756.95 2626.071 12386.91
+           3242.653
+
+  sigma:  13062.15
+
+     AIC     AICc      BIC 
+7870.876 7871.593 7908.496 

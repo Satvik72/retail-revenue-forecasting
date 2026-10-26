@@ -1,0 +1,6 @@
+
+	Kruskal-Wallis rank sum test
+
+data:  Revenue by Weekday
+Kruskal-Wallis chi-squared = 178.28, df = 6, p-value < 2.2e-16
+

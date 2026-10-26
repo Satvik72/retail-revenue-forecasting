@@ -1,0 +1,10 @@
+Series: train_ts 
+ARIMA(1,0,1)(0,1,2)[7] 
+
+Coefficients:
+         ar1      ma1     sma1     sma2
+      0.8811  -0.6652  -0.7805  -0.1407
+s.e.  0.0542   0.0779   0.0608   0.0588
+
+sigma^2 = 167258022:  log likelihood = -3389.69
+AIC=6789.38   AICc=6789.58   BIC=6808.08
